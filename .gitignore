@@ -1,0 +1,7 @@
+/**/dist
+/**/node_modules
+/**/.svn
+/**/target
+/**/out
+/**/work
+/**/logs
